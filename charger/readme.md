@@ -11,6 +11,7 @@
 + 1n4007 diode
 
 ## Circuitdiagram for keyswitch regarding the PP, CP and GND pins in the type 2 connector
+Note that the diagram uses an 1.5k resistors (13A) for the PP, although this should work there are chargers that wont work with this and therefore its recommended to use 680R (20A)
 ![](https://raw.githubusercontent.com/Thorfusion/Buddy/main/charger/schematic.png)
 
 ## Pinout for the type 2 connector
