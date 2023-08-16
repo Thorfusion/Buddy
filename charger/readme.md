@@ -1,4 +1,6 @@
-Parts needed
+# Type 2 to Calix cable for Buddy
+
+## Parts needed
 
 + Keyswitch
 + Type 2 connector
@@ -8,10 +10,11 @@ Parts needed
 + 2.74k resistor
 + 1n4007 diode
 
-Circuitdiagram for keyswitch regarding the PP, CP and GND pins in the type 2 connector
+## Circuitdiagram for keyswitch regarding the PP, CP and GND pins in the type 2 connector
+![](https://raw.githubusercontent.com/Thorfusion/Buddy/main/charger/schematic.png)
 
-
-Pinout for the type 2 connector
+## Pinout for the type 2 connector
+![](https://raw.githubusercontent.com/Thorfusion/Buddy/main/charger/type2.png)
 
 By Mliu92 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=95895979
 
